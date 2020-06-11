@@ -1,0 +1,14 @@
+Nama : Solaria Restaurant
+Loc : Lantai 3 MOG
+
+menu: 
+1. Bakso Halus Mie/Bihun (Rp 20.001) = Bakso sapi kuah khas solaria dengan pilihan mie/bihun 
+2. Express Bowl Ayam (Rp 20.001) = Satu porsi nasi dengan ayam goreng serta 6 pilihan saus(rica - rica/teriyaki/mentega/asam manis/mayo) khas solaria
+3. Express Bowl Fillet Ikan (Rp 23.673) = Satu porsi nasi dengan fillet ikan goreng serta 6 pilihan saus(rica/teriyaki/mentega/asam manis/mayo) khas solaria
+4. Fish Ball Satay (Rp 17.274) = Dua tusuk fish ball satay khas solaria
+5. French Fries (Rp. 17.274) = Satu porsi kentang goreng khas solaria
+6. Kwetiau Goreng Ayam (Rp 34.546) = Kwetiau goreng khas solaria, lengkap dengan sayuran dan daging ayam asli
+7. Mie Ayam Bakso (Rp 30.910) = Satu porsi mie ayam, lengkap dengan sayuran dan daging ayam asli serta tammbahan bakso sapi
+8. Mie Siram Sapi (Rp 38.182) = Mie siram dengan kuah kental dan serta sayuran, telur dan daging sapi asli
+9. Nasi Ayam Goreng Tepung (Rp 37.273) = Satu porsi nasi putih dengan ayam goreng tepung dan tambahan saos serta sayuran.
+10. Nasi Goreng Spesial (Rp 32.7228) = Nasi Goreng khas solaria lengkap dengan telur, potongan bakso dan potongan daging ayam serta acar

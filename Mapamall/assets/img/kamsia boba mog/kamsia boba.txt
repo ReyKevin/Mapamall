@@ -1,0 +1,19 @@
+Nama : Kamsia Boba
+Loc : Lantai 3 MOG (dekat Yoshinoya)
+
+menu :
+1. Original Brown Sugar (Rp. 18.000  ) = Perpaduan antara fresh milk dan boba pearls khas kamsia
+
+2. Binggan Brown Sugar (Rp. 20.000 ) = Perpaduan antara fresh milk, oreo cookies, dan boba pearls khas kamsia
+
+3. Butterscoth (Rp. 22.000) = Perpaduan antara freshmilk, campuran hazelnut, dan boba pearls khas kamsia
+
+4. Mocca (Rp. 22.000) = Perpaduan antara freshmilk, mocca essence, dan boba pearls khas kamsia
+
+5. Salted Caramel (Rp. 22.000) = Perpaduan antara freshmilk, caramel essence, cream cheese, dan boba pearls khas kamsia
+
+6. Taro (Rp. 20.000) = Taro powder khas kamsia, condensed milk, dan boba pearls khas kamsia
+
+7. Chocolate (Rp. 20.000) = Chocolate powder khas kamsia, condensed milk, dan boba pearls khas kamsia
+
+8. Red Velvet (Rp. 20.000) = Red velvet powder khas kamsia, condensed milk, dan boba pearls khas kamsia
